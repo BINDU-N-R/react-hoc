@@ -1,4 +1,4 @@
-**Higher Order Components (HOC)
+**Higher Order Components (HOC)**
 
 A higher-order component is a function that takes a component and returns a new component.
 
